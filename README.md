@@ -45,6 +45,9 @@ Volunteered full-time with ISKCON, conducting Bhagavad Gita-based motivational s
 Led community-building projects and coordinated volunteer teams.
 
 🚀 Featured Projects
+🍔 Food Vendor App (React.js)
+Currently working on converting Figma designs into fully functional React front-end screens, ensuring seamless user flow and API integration for dynamic data handling.
+
 🛠️ Co-Working Space App (React Native)
 A React Native application offering seat booking, food ordering, and event management functionalities.
 
