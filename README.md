@@ -4,17 +4,20 @@ Sulabh Seth
 📱 +91-9818565310
 💼 www.linkedin.com/in/sulabh-seth-30b4a2300
 
-👨‍💻 About Me
+👨‍💻 About Me:
+
 I am a Software Associate with a background in front-end. I specialize in building responsive and scalable web and mobile applications using modern frameworks and technologies. Passionate about creating efficient solutions and contributing to community-building initiatives.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
+
 Frontend: React.js, Next.js, React Native, Tailwind CSS, HTML, CSS, JavaScript
 State Management: Redux
 Backend: Node.js, Firebase, Supabase, Strapi, MongoDB
 Languages: Java, C++, JavaScript
 Other Tools: Microsoft Office
 
-💼 Work Experience
+💼 Work Experience:
+
 **India Accelerator** - Gurugram (Current)
 Software Associate
 
@@ -30,21 +33,25 @@ Customized and deployed Microsoft Nav software for various clients.
 Developed a POS terminal interface using LS Retail based on user requirements.
 Provided training, troubleshooting, and client-side support post-deployment.
 
-🎓 Education
+🎓 Education:
+
 Master of Computer Applications
 M.D University, Rohtak (2011)
 B.Sc in Computer Science (H)
 Delhi University, New Delhi (2007)
 
-🗣️ Languages
+🗣️ Languages:
+
 English
 Hindi
 
-🌱 Extracurricular Activities
+🌱 Extracurricular Activities:
+
 Volunteered full-time with ISKCON, conducting Bhagavad Gita-based motivational seminars.
 Led community-building projects and coordinated volunteer teams.
 
-🚀 Featured Projects
+🚀 Featured Projects:
+
 🍔 Food Vendor App (React.js)
 Currently working on converting Figma designs into fully functional React front-end screens, ensuring seamless user flow and API integration for dynamic data handling.
 
