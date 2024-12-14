@@ -54,15 +54,22 @@ Led community-building projects and coordinated volunteer teams.
 
 🍔 Food Vendor App (React.js)
 Currently working on converting Figma designs into fully functional React front-end screens, ensuring seamless user flow and API integration for dynamic data handling.
+![image](https://github.com/user-attachments/assets/a167262d-98cd-44f8-a173-10bf38c61d8b)
+
 
 🛠️ Co-Working Space App (React Native)
 A React Native application offering seat booking, food ordering, and event management functionalities.
+![image](https://github.com/user-attachments/assets/dc11c97f-56d2-4bb8-b6b5-b3d5b33c097f)
+
+
 
 🖥️ Company Dashboard (Next.js, Tailwind, Supabase)
 A web-based dashboard to manage start-ups, investors, and mentors with full CRUD functionality.
 
 🛍️ Online Shopping App (Next.js, Firebase)
 UI and functionality for an e-commerce platform with real-time data handling.
+![image](https://github.com/user-attachments/assets/25e87aa7-a885-48e9-bb13-a199e4a139d8)
+
 
 ✉️ Contact 
 Feel free to connect or collaborate!
