@@ -64,8 +64,6 @@ A web-based dashboard to manage start-ups, investors, and mentors with full CRUD
 🛍️ Online Shopping App (Next.js, Firebase)
 UI and functionality for an e-commerce platform with real-time data handling.
 
-🔗 View All My Projects on GitHub ()
-
 ✉️ Contact 
 Feel free to connect or collaborate!
 📧 sulabhsethmca@gmail.com
