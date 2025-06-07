@@ -53,7 +53,7 @@ Led community-building projects and coordinated volunteer teams.
 🚀 Featured Projects:
 
 🍔 Food Vendor App (React.js)
-Currently working on converting Figma designs into fully functional React front-end screens, ensuring seamless user flow and API integration for dynamic data handling.
+Worked on converting Figma designs into fully functional React front-end screens, ensuring seamless user flow and API integration for dynamic data handling.
 ![image](https://github.com/user-attachments/assets/a167262d-98cd-44f8-a173-10bf38c61d8b)
 
 
